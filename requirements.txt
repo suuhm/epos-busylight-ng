@@ -1,0 +1,4 @@
+hid
+argparse
+psutil
+pygetwindow
